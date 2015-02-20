@@ -6,10 +6,9 @@ class ListDuplicatingFiles
 {
     static void Main()
     {
-        string rootDirectory = @"Dir";
-        DirectoryInfo dir = new DirectoryInfo(rootDirectory);
+        string rootDirectory = @"Dir";        
 
-        List<FileInfo> files = ReturnUniqueFiles(dir);
+        List<FileInfo> files = ReturnUniqueFiles(rootDirectory);
 
         foreach (var file in files)
         {
@@ -17,8 +16,15 @@ class ListDuplicatingFiles
         }
     }
 
-    public static List<FileInfo> ReturnUniqueFiles(DirectoryInfo dir)
+    public static List<FileInfo> ReturnUniqueFiles(string rootDirectory)
     {
+        if (!Directory.Exists(rootDirectory))
+        {
+            throw new FileNotFoundException("Directory path not found");
+        }
+
+        DirectoryInfo dir = new DirectoryInfo(rootDirectory);
+
         List<FileInfo> files = new List<FileInfo>();
         TraverseDir(dir, files);
 
@@ -26,7 +32,7 @@ class ListDuplicatingFiles
     }
 
     private static void TraverseDir(DirectoryInfo dir, List<FileInfo> files)
-    {
+    {        
         FileInfo[] filesInCurrentDirectory = dir.GetFiles();
         AddFiles(filesInCurrentDirectory, files);
 
