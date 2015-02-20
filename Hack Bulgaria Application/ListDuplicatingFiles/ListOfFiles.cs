@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-class ListDuplicatingFiles
+class ListOfFiles
 {
     static void Main()
     {
