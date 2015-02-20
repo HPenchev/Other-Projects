@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\SmallestSubsContAlphabet\bin\Debug\SmallestSubsContAlphabet.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\SmallestSubsContAlphabet\bin\Debug\SmallestSubsContAlphabet.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\SmallestSubsContAlphabet\bin\Debug\SmallestSubsContAlphabet.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\SmallestSubsContAlphabet\obj\Debug\SmallestSubsContAlphabet.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\SmallestSubsContAlphabet\obj\Debug\SmallestSubsContAlphabet.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\SmallestSubsContAlphabet\obj\Debug\SmallestSubsContAlphabet.pdb

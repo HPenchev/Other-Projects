@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPrimesInAnInterval", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDuplicatingFiles", "ListDuplicatingFiles\ListDuplicatingFiles.csproj", "{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestSubsContAlphabet", "SmallestSubsContAlphabet\SmallestSubsContAlphabet.csproj", "{3A610A2A-A103-4E63-BEB7-A85DE4D96F7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A610A2A-A103-4E63-BEB7-A85DE4D96F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A610A2A-A103-4E63-BEB7-A85DE4D96F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A610A2A-A103-4E63-BEB7-A85DE4D96F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A610A2A-A103-4E63-BEB7-A85DE4D96F7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
