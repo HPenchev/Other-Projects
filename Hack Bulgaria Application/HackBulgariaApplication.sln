@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPrimesInAnInterval", "FindPrimesInAnInterval\FindPrimesInAnInterval.csproj", "{1BCB5A83-1887-4227-A35F-3B57632958B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDuplicatingFiles", "ListDuplicatingFiles\ListDuplicatingFiles.csproj", "{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1BCB5A83-1887-4227-A35F-3B57632958B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BCB5A83-1887-4227-A35F-3B57632958B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BCB5A83-1887-4227-A35F-3B57632958B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8626C4D3-FB6B-4D85-A60D-1BF1357D7DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

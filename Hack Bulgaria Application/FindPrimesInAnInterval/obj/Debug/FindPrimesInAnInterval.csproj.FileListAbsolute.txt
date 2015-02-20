@@ -4,3 +4,6 @@ c:\users\ico\documents\visual studio 2013\Projects\HackBulgariaApplication\FindP
 c:\users\ico\documents\visual studio 2013\Projects\HackBulgariaApplication\FindPrimesInAnInterval\obj\Debug\FindPrimesInAnInterval.csprojResolveAssemblyReference.cache
 c:\users\ico\documents\visual studio 2013\Projects\HackBulgariaApplication\FindPrimesInAnInterval\obj\Debug\FindPrimesInAnInterval.exe
 c:\users\ico\documents\visual studio 2013\Projects\HackBulgariaApplication\FindPrimesInAnInterval\obj\Debug\FindPrimesInAnInterval.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\FindPrimesInAnInterval\bin\Debug\FindPrimesInAnInterval.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\FindPrimesInAnInterval\obj\Debug\FindPrimesInAnInterval.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\FindPrimesInAnInterval\obj\Debug\FindPrimesInAnInterval.pdb

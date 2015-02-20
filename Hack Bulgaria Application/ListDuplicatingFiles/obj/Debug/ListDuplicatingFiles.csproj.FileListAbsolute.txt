@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ListDuplicatingFiles\bin\Debug\ListDuplicatingFiles.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ListDuplicatingFiles\obj\Debug\ListDuplicatingFiles.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ListDuplicatingFiles\bin\Debug\ListDuplicatingFiles.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ListDuplicatingFiles\bin\Debug\ListDuplicatingFiles.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ListDuplicatingFiles\obj\Debug\ListDuplicatingFiles.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ListDuplicatingFiles\obj\Debug\ListDuplicatingFiles.pdb
