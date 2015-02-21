@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ConvertToGreyscale\bin\Debug\ConvertToGreyscale.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ConvertToGreyscale\bin\Debug\ConvertToGreyscale.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ConvertToGreyscale\bin\Debug\ConvertToGreyscale.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ConvertToGreyscale\obj\Debug\ConvertToGreyscale.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ConvertToGreyscale\obj\Debug\ConvertToGreyscale.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\HackBulgariaApplication\Other-Projects\trunk\Hack Bulgaria Application\ConvertToGreyscale\obj\Debug\ConvertToGreyscale.pdb
